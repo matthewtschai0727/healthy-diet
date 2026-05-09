@@ -1,0 +1,75 @@
+xml
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perplexity 健康飲食 AI 助手</title>
+    <style>
+        body { font-family: 'Microsoft JhengHei', Arial, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background: linear-gradient(to bottom, #e8f5e8, #f0f8f0); color: #333; }
+        header { text-align: center; background: linear-gradient(135deg, #4CAF50, #45a049); color: white; padding: 40px; border-radius: 20px; margin-bottom: 30px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); }
+        h1 { margin: 0; font-size: 2.8em; }
+        .intro { background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); line-height: 1.7; font-size: 1.2em; margin-bottom: 30px; }
+        .section { background: white; padding: 25px; border-radius: 15px; box-shadow: 0 3px 10px rgba(0,0,0,0.06); margin-bottom: 25px; }
+        .section h2 { color: #4CAF50; border-bottom: 3px solid #4CAF50; padding-bottom: 10px; }
+        .diabetes-section { background: linear-gradient(135deg, #ffebee, #ffcdd2); border-left: 6px solid #f44336; }
+        .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; margin-top: 30px; }
+        .feature { background: #f9f9f9; padding: 25px; border-radius: 12px; text-align: center; box-shadow: 0 3px 8px rgba(0,0,0,0.1); transition: transform 0.3s; }
+        .feature:hover { transform: translateY(-5px); }
+        .feature h3 { color: #4CAF50; margin-top: 0; }
+        footer { text-align: center; margin-top: 50px; padding: 20px; color: #666; font-size: 1em; background: rgba(255,255,255,0.8); border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🍎 Perplexity 健康飲食 AI 助手 🍎</h1>
+    </header>
+    
+    <div class="intro">
+        <p>歡迎使用<strong>Perplexity 健康飲食 AI 助手</strong>！我是你的個人營養顧問，專門解答健康飲食、均衡飲食、<strong>糖尿病飲食控制</strong>等問題。</p>
+        <p>無論你是想了解「什麼是健康食物」、「均衡飲食定義」，還是「飲食如何導致糖尿病」及「如何透過健康飲食改善糖尿病」，我都能用簡單易懂的方式解釋，並提供實用建議。</p>
+        <p>讓我們一起吃得健康、活得更棒！💪🥗</p>
+    </div>
+
+    <div class="section diabetes-section">
+        <h2>🔬 糖尿病飲食重點</h2>
+        <ul style="font-size: 1.1em; line-height: 1.8;">
+            <li><strong>餐盤法：</strong>半盤非澱粉蔬菜（如菠菜、西蘭花）、1/4瘦蛋白（如魚、豆腐）、1/4優質碳水（如糙米）</li>
+            <li><strong>選擇高纖食物：</strong>全穀類、豆類、蔬果，減緩血糖上升</li>
+            <li><strong>避免：</strong>含糖飲料、白飯、白麵包、加工肉品、油炸食物</li>
+            <li><strong>運動配合：</strong>飯後快走10-30分鐘，改善胰島素敏感度</li>
+            <li><strong>目標：</strong>穩定血糖、減重、預防併發症</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🍽️ 健康飲食基礎</h2>
+        <p><strong>6大類食物：</strong>穀物、蔬菜、水果、豆魚蛋肉、奶類、油堅果種子</p>
+        <p><strong>均衡飲食：</strong>多菜果、夠主食、適量蛋白、少油鹽糖</p>
+        <p><strong>健康烹調：</strong>蒸、煮、焯、燉、少油快炒，避免油炸</p>
+    </div>
+
+    <div class="features">
+        <div class="feature">
+            <h3>✅ 健康食物分類</h3>
+            <p>6大類食物，一目了然</p>
+        </div>
+        <div class="feature">
+            <h3>✅ 均衡飲食原則</h3>
+            <p>簡單記法，輕鬆實踐</p>
+        </div>
+        <div class="feature">
+            <h3>🩸 糖尿病飲食控制</h3>
+            <p>餐盤法+運動，穩定血糖</p>
+        </div>
+        <div class="feature">
+            <h3>✅ 健康烹調方法</h3>
+            <p>少油少鹽，美味又健康</p>
+        </div>
+    </div>
+
+    <footer>
+        <p><strong>由 Perplexity AI 提供</strong> • 讓健康飲食變得簡單 • 糖尿病管理專家</p>
+    </footer>
+</body>
+</html>
